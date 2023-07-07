@@ -1,0 +1,180 @@
+Utilisateur: admin, Action: Tentative de connexion, Date/Heure: 2023-07-06 10:47:08
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 10:47:13
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:01:46
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:02:27
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:03:25
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:04:13
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:06:20
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:07:03
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:07:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:09:38
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:11:26
+Utilisateur: admin, Action: ajout d'utlilisateur, Date/Heure: 2023-07-06 11:11:27
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:15:23
+Utilisateur: admin, Action: ajout d'utlilisateur, Date/Heure: 2023-07-06 11:15:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:35:45
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:36:38
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:41:29
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 11:43:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:19:41
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:20:11
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:21:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:22:10
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:23:12
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:25:04
+Utilisateur: admin, Action: Création du dossier médical pour le patient l, Date/Heure: 2023-07-06 12:25:11
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:52:49
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:53:25
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 12:55:22
+Utilisateur: admin, Action: Création du dossier médical pour le patient l, Date/Heure: 2023-07-06 12:55:25
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:07:05
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:07:48
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:09:59
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:12:31
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:26:54
+Utilisateur: admin, Action: Création du dossier médical pour le patient l, Date/Heure: 2023-07-06 13:27:09
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 13:29:16
+Utilisateur: admin, Action: Création du dossier médical pour le patient l, Date/Heure: 2023-07-06 13:29:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 14:25:44
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 19:57:52
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 19:58:33
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 19:59:17
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 20:01:06
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 20:02:40
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 20:08:54
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 20:09:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 20:10:08
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:14:52
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:18:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:21:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:22:13
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:22:43
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:23:20
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:28:28
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:28:40
+Utilisateur: admin, Action: Création du dossier médical pour le patient p, Date/Heure: 2023-07-06 21:28:47
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:30:43
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-06 21:32:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:33:47
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:35:05
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:38:07
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:40:09
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:41:57
+Utilisateur: admin, Action: Création du dossier médical pour le patient k, Date/Heure: 2023-07-07 09:42:01
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:42:27
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:44:31
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:45:05
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:45:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:45:52
+Utilisateur: admin, Action: Création du dossier médical pour le patient r, Date/Heure: 2023-07-07 09:45:55
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:46:33
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:47:14
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:48:49
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:51:42
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:52:42
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:56:01
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 09:57:14
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:00:45
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:01:09
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:01:38
+Utilisateur: admin, Action: Création du dossier médical pour le patient r, Date/Heure: 2023-07-07 10:01:41
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:52:08
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:52:48
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:53:54
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 10:56:31
+Utilisateur: admin, Action: Création du dossier médical pour le patient e, Date/Heure: 2023-07-07 10:56:34
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:06:29
+Utilisateur: admin, Action: Création du dossier médical pour le patient r, Date/Heure: 2023-07-07 11:06:40
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:09:24
+Utilisateur: admin, Action: Création du dossier médical pour le patient r, Date/Heure: 2023-07-07 11:09:28
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:13:08
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:16:55
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:17:31
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:21:27
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:22:06
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:23:01
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:25:25
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:25:40
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:27:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:27:33
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:28:15
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:30:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:31:47
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:33:40
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:35:45
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:37:44
+Utilisateur: admin, Action: Création du dossier médical pour le patient r, Date/Heure: 2023-07-07 11:37:50
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:40:45
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:42:30
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:43:26
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:46:13
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:48:53
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:49:29
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 11:59:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 12:04:09
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 12:05:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 12:07:55
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:08:58
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:10:52
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:13:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:16:56
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:18:05
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 13:25:50
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:12:30
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:15:01
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:23:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:26:26
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:26:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:33:55
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:34:16
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:42:58
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:44:21
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:45:17
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:45:50
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:47:49
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:57:44
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:58:23
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:59:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 15:59:32
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:00:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:01:58
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:04:39
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:06:51
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:08:57
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:17:17
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:30:20
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:31:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:32:19
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:35:29
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:36:43
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:40:33
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:40:41
+Utilisateur: admin, Action: Création du dossier médical pour le patient d, Date/Heure: 2023-07-07 16:40:50
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:41:53
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:42:41
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:44:21
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:47:31
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:47:50
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:48:38
+Utilisateur: admin, Action: Création du dossier médical pour le patient t, Date/Heure: 2023-07-07 16:48:43
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:56:57
+Utilisateur: admin, Action: Création du dossier médical pour le patient e, Date/Heure: 2023-07-07 16:57:00
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 16:59:24
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 17:01:11
+Utilisateur: admin, Action: Création du dossier médical pour le patient y, Date/Heure: 2023-07-07 17:01:19
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 17:06:07
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 17:09:48
+Utilisateur: admin, Action: ajout d'utlilisateur, Date/Heure: 2023-07-07 17:09:59
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 20:00:48
+Utilisateur: admin, Action: ajout d'utlilisateur, Date/Heure: 2023-07-07 20:00:53
+Utilisateur: admin, Action: audit, Date/Heure: 2023-07-07 20:01:25
+Utilisateur: Lionel, Action: Nouvelle connexion, Date/Heure: 2023-07-07 20:01:48
+Utilisateur: ACCES INTERDIT Lionel, Action: ajout d'utlilisateur, Date/Heure: 2023-07-07 20:01:51
+Utilisateur: ACCES INTERDIT Lionel, Action: creation de dossier m�dical, Date/Heure: 2023-07-07 20:02:22
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 20:03:54
+Utilisateur: admin, Action: Cr�ation du dossier m�dical pour le patient Ousmane Dembele, Date/Heure: 2023-07-07 20:04:37
+Utilisateur: Lionel, Action: Nouvelle connexion, Date/Heure: 2023-07-07 20:05:20
+Utilisateur: ACCES INTERDIT Lionel, Action: creation de dossier m�dical, Date/Heure: 2023-07-07 20:05:35
+Utilisateur: ACCES INTERDIT Lionel, Action: audit, Date/Heure: 2023-07-07 20:06:20
+Utilisateur: admin, Action: Nouvelle connexion, Date/Heure: 2023-07-07 20:06:34
+Utilisateur: admin, Action: audit, Date/Heure: 2023-07-07 20:06:40
